@@ -1,4 +1,4 @@
-# second-atempt
+# react-atempt
 
 ## Running
 
