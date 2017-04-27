@@ -1,4 +1,4 @@
-# react-atempt
+# react-playground
 
 ## Running
 
